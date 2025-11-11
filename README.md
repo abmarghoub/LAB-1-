@@ -41,7 +41,6 @@
 | **Composants UI** | `TextView`, `EditText`, `Spinner`, `RadioGroup`, `RadioButton`, `Button` |
 | **Gestion des événements** | `setOnClickListener()` |
 | **Affichage des messages** | `Toast.makeText(...).show()` |
-| **Logs de débogage** | `Log.d()` |
 | **Émulateur utilisé** | Android Virtual Device (AVD) ou smartphone physique |
 
 
@@ -87,7 +86,8 @@ L’application s’exécute correctement sur un émulateur Android ou un télé
 
 L’application affiche un formulaire simple permettant de saisir le nom, le prénom, la ville et le genre, puis un message Toast apparaît à la validation, confirmant les informations saisies par l’utilisateur.
 
-<img width="357" height="632" alt="1" src="https://github.com/user-attachments/assets/3e4680e1-6146-40a2-9fc9-a7658943d715" />
+<img width="413" height="926" alt="image" src="https://github.com/user-attachments/assets/81d959f9-d83b-4f28-8409-b4902c135583" />
+
 
 ## 5. Demonstration :
 
