@@ -1,4 +1,23 @@
-#  TP Android – Application “Toast et Compteur”
+#  LAB 1 – HelloToast : Manipuler les composants et les événements
+
+---
+### Réalisé par
+
+**Abla MARGHOUB**
+
+### Encadré par
+
+**Pr. Mohamed LACHGAR**
+
+### Module
+
+**Techniques de Programmation Avancée**
+
+### Établissement
+
+**École Normale Supérieure - Université Cadi Ayyad**
+
+---
 
 ## 1. Objectif du TP
 
@@ -72,6 +91,9 @@ L’application affiche un formulaire simple permettant de saisir le nom, le pr�
 
 ## 5. Demonstration :
 
-https://github.com/user-attachments/assets/58c80fe2-3d1e-453a-82be-568207ef16e1
+<video src="https://github.com/user-attachments/assets/58c80fe2-3d1e-453a-82be-568207ef16e1" controls>
+</video>
+
+
 
 
